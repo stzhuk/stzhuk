@@ -1,14 +1,14 @@
 # Hi, I'm Petro 👋
 
-Software engineer focused on building scalable solutions.
+I am a Junior Python Developer from Poland. I create interesting and not so interesting projects. Here you will find everything I have worked on
 
 ## 💼 What I Do
 
-Building and shipping software that solves real problems. Passionate about clean code, system design, and continuous learning.
+I create websites, SaaS, web applications, and anything that seems interesting to me.
 
 ## 🛠️ Tech Stack
 
-`JavaScript` `TypeScript` `Python` `React` `Node.js` `Docker` `MongoDB` `PostgreSQL`
+`TypeScript` `Python` `React` `Node.js` `Docker` `MongoDB` `PostgreSQL` `FastAPI`
 
 ## 📫 Get in Touch
 
