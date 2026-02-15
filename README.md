@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Stas 👋
 
-<!--
-**stzhuk/stzhuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer focused on building scalable solutions.
 
-Here are some ideas to get you started:
+## 💼 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building and shipping software that solves real problems. Passionate about clean code, system design, and continuous learning.
+
+## 🛠️ Tech Stack
+
+`JavaScript` `TypeScript` `Python` `React` `Node.js` `Docker` `AWS` `PostgreSQL`
+
+## 📫 Get in Touch
+
+- GitHub: [@stzhuk](https://github.com/stzhuk)
+- LinkedIn: [Connect with me](https://linkedin.com/in/stzhuk)
+
+---
+
+<div align="center">
+  <sub>Open to interesting projects and collaborations</sub>
+</div>
