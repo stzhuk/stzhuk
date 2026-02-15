@@ -1,4 +1,4 @@
-# Hi, I'm Stas 👋
+# Hi, I'm Petro 👋
 
 Software engineer focused on building scalable solutions.
 
@@ -8,12 +8,11 @@ Building and shipping software that solves real problems. Passionate about clean
 
 ## 🛠️ Tech Stack
 
-`JavaScript` `TypeScript` `Python` `React` `Node.js` `Docker` `AWS` `PostgreSQL`
+`JavaScript` `TypeScript` `Python` `React` `Node.js` `Docker` `MongoDB` `PostgreSQL`
 
 ## 📫 Get in Touch
 
 - GitHub: [@stzhuk](https://github.com/stzhuk)
-- LinkedIn: [Connect with me](https://linkedin.com/in/stzhuk)
 
 ---
 
