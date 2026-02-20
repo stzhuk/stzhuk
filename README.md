@@ -1,6 +1,6 @@
 # Hi, I'm Petro 👋
 
-I am a Junior Python Developer from Poland. I create interesting and not so interesting projects. Here you will find everything I have worked on
+Self-taught backend developer constantly improving my skills. Building real-world projects with Python and modern web technologies.
 
 ## 🛠️ Tech Stack
 
