@@ -1,10 +1,49 @@
-# Hi, I'm Petro 👋
+# 👋 Hi, I'm Petro
 
-Self-taught backend developer constantly improving my skills. Building real-world projects with Python and modern web technologies.
+Backend Developer focused on building scalable and production-ready web applications.
 
-## 🛠️ Tech Stack
+I specialize in designing RESTful APIs, working with relational databases, and containerizing backend services.  
+Passionate about clean architecture, performance optimization, and writing maintainable code.
 
-`TypeScript` `Python` `React` `Node.js` `Docker` `MongoDB` `PostgreSQL` `FastAPI`
+---
+
+## 🚀 What I Do
+
+- Design and build REST APIs with FastAPI
+- Work with PostgreSQL & MongoDB
+- Implement authentication & authorization (JWT, RBAC)
+- Optimize database queries and backend performance
+- Containerize applications using Docker
+- Collaborate with frontend (React / TypeScript)
+- Deploy services to Linux-based environments
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+`Python` `FastAPI` `Node.js`
+
+### Databases
+`PostgreSQL` `MongoDB`
+
+### DevOps & Tools
+`Docker` `Git` `Linux`
+
+### Frontend (collaboration level)
+`React` `TypeScript`
+
+---
+
+## 📌 Current Focus
+
+- Backend architecture & scalability
+- Async programming in Python
+- Testing (pytest)
+- API security best practices
+- System design fundamentals
+
+---
 
 ## 📫 Get in Touch
 
@@ -13,5 +52,5 @@ Self-taught backend developer constantly improving my skills. Building real-worl
 ---
 
 <div align="center">
-  <sub>Open to interesting projects and collaborations</sub>
+  <sub>Backend Developer | Open to backend-focused opportunities</sub>
 </div>
